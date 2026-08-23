@@ -1,0 +1,14 @@
+[book]
+authors = ["Mark Veltzer <mark.veltzer@gmail.com>"]
+language = "en"
+src = "src"
+title = "rsmarkdownlint - Rust version of markdownlint"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/veltzer/rsmarkdownlint"
+edit-url-template = "https://github.com/veltzer/rsmarkdownlint/edit/master/docs/{path}"
