@@ -1,4 +1,5 @@
 # rsmarkdownlint
+
 Markdown linter written in rust
 
 Not a mature one. The Rust ecosystem has pulldown-cmark for parsing markdown but no full-featured linter like
