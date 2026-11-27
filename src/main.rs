@@ -1,3 +1,5 @@
+//! rsmarkdownlint: Rust version of markdownlint.
+
 fn main() {
     println!("Hello, World!");
 }
